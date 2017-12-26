@@ -1,5 +1,5 @@
 {
-  "name": "urbit",
+  "name": "@asssaf/urbit",
   "version": "0.1.0",
   "description": "urbit js bindings",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "asssaf",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1"
+    "axios": "^0.17.1",
+    "debug": "^3.1.0"
   }
 }
