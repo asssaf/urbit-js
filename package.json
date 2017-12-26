@@ -1,0 +1,14 @@
+{
+  "name": "urbit",
+  "version": "0.1.0",
+  "description": "urbit js bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asssaf",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
