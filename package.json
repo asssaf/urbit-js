@@ -1,6 +1,6 @@
 {
   "name": "@asssaf/urbit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "urbit js bindings",
   "main": "index.js",
   "scripts": {
